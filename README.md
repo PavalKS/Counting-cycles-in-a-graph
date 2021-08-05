@@ -2,7 +2,7 @@
 JAVA programs to count the number of cycles in a directed and undirected graph using Depth First Search and Maze colouring method.
 
 
-For Undirected Graphs
+# For Undirected Graphs
 
 PROPOSED APPROACH: 
 
@@ -16,7 +16,7 @@ ALGORITHM:
 •	Display the number of cycles accordingly
 
 
-For Directed Graphs:
+# For Directed Graphs:
 
 PROPOSED APPROACH: 
 
